@@ -1133,7 +1133,7 @@ const questions = [
         options: [
             { text: "организационная схема", correct: true },
             { text: "должностная инструкция", correct: false },
-            { text: "устав предприятия", correct: true },
+            { text: "устав предприятия", correct: false },
             { text: "финансовый план", correct: false }
         ]
     },
